@@ -33,4 +33,5 @@ const elias = {
 - **You can contact me 🌎🇦🇷**:
 - [Linkedin](https://www.linkedin.com/in/elias-david-galeano)
 - [gmail](galeanoeliasdavid@gmail.com)
+- [Portfolio](https://galeanodev.netlify.app/)
 
